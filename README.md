@@ -5,3 +5,4 @@ Added new feature
 Release candidate
 The new Changes
 The Literal Change
+New Line
